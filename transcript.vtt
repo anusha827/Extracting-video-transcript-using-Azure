@@ -1,0 +1,515 @@
+﻿WEBVTT
+
+NOTE duration:"00:04:11.4770000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.9902322
+
+00:00:00.000 --> 00:00:04.720
+Hello again. In this demo I'm going
+
+NOTE Confidence: 0.9902322
+
+00:00:04.720 --> 00:00:07.619
+to show you how bot will look like.
+
+NOTE Confidence: 0.9902322
+
+00:00:07.620 --> 00:00:10.356
+This is just a demo from
+
+NOTE Confidence: 0.9902322
+
+00:00:10.356 --> 00:00:11.724
+Microsoft Healthcare Part.
+
+NOTE Confidence: 0.9902322
+
+00:00:11.730 --> 00:00:15.839
+So you need to open this URL.
+
+NOTE Confidence: 0.9902322
+
+00:00:15.840 --> 00:00:18.283
+After this you will be coming to
+
+NOTE Confidence: 0.9902322
+
+00:00:18.283 --> 00:00:20.550
+this page and we gonna click.
+
+NOTE Confidence: 0.9902322
+
+00:00:20.550 --> 00:00:23.476
+Try demo for an end user experience.
+
+NOTE Confidence: 0.9902322
+
+00:00:23.480 --> 00:00:27.242
+So I click there so the bot will open.
+
+NOTE Confidence: 0.9902322
+
+00:00:27.250 --> 00:00:30.519
+So this is how if you implement
+
+NOTE Confidence: 0.9902322
+
+00:00:30.519 --> 00:00:32.896
+a conversation AI the bot
+
+NOTE Confidence: 0.9902322
+
+00:00:32.896 --> 00:00:35.076
+will open like this and.
+
+NOTE Confidence: 0.9902322
+
+00:00:35.080 --> 00:00:37.376
+Once you, you can chat with the bot,
+
+NOTE Confidence: 0.9902322
+
+00:00:37.380 --> 00:00:40.206
+so this is a health care.
+
+NOTE Confidence: 0.9902322
+
+00:00:40.210 --> 00:00:41.140
+So it will.
+
+NOTE Confidence: 0.9902322
+
+00:00:41.140 --> 00:00:44.220
+It will diagnose me if I have any issues.
+
+NOTE Confidence: 0.9902322
+
+00:00:44.220 --> 00:00:46.218
+Let's say I'm having a fever,
+
+NOTE Confidence: 0.9902322
+
+00:00:46.220 --> 00:00:48.558
+so let's start conversation with the pot.
+
+NOTE Confidence: 0.97768265
+
+00:00:51.340 --> 00:00:54.749
+So one thing more and more knowledge
+
+NOTE Confidence: 0.97768265
+
+00:00:54.749 --> 00:00:57.698
+based questions you have in the bot.
+
+NOTE Confidence: 0.97768265
+
+00:00:57.700 --> 00:00:59.116
+More and more beneficial for you.
+
+NOTE Confidence: 0.97768265
+
+00:00:59.120 --> 00:01:00.494
+So let's say in this I
+
+NOTE Confidence: 0.97768265
+
+00:01:00.494 --> 00:01:01.950
+put high the bot says hi.
+
+NOTE Confidence: 0.97768265
+
+00:01:01.950 --> 00:01:04.010
+How can I help you?
+
+NOTE Confidence: 0.97768265
+
+00:01:04.010 --> 00:01:06.260
+If I say, how are you?
+
+NOTE Confidence: 0.88037807
+
+00:01:09.040 --> 00:01:11.248
+So the part will say that,
+
+NOTE Confidence: 0.88037807
+
+00:01:11.250 --> 00:01:13.470
+OK, uh, I'm good, I'm great.
+
+NOTE Confidence: 0.88037807
+
+00:01:13.470 --> 00:01:17.520
+Thanks for asking, but let's say if I say.
+
+NOTE Confidence: 0.88037807
+
+00:01:17.520 --> 00:01:22.584
+Hi how are you? In a combination.
+
+NOTE Confidence: 0.88037807
+
+00:01:22.584 --> 00:01:25.610
+So let's say, let's see what it says.
+
+NOTE Confidence: 0.88037807
+
+00:01:25.610 --> 00:01:27.871
+Sorry, sorry. It seems I can't answer
+
+NOTE Confidence: 0.88037807
+
+00:01:27.871 --> 00:01:30.286
+this so see I ask the same thing.
+
+NOTE Confidence: 0.88037807
+
+00:01:30.290 --> 00:01:32.216
+It's because that we should have
+
+NOTE Confidence: 0.88037807
+
+00:01:32.216 --> 00:01:34.444
+a lot of knowledge base so we
+
+NOTE Confidence: 0.88037807
+
+00:01:34.444 --> 00:01:36.202
+can have that in your response.
+
+NOTE Confidence: 0.88037807
+
+00:01:36.210 --> 00:01:38.394
+So. So let us check with this.
+
+NOTE Confidence: 0.88037807
+
+00:01:38.400 --> 00:01:40.888
+So let's say I'm I'm having a fever,
+
+NOTE Confidence: 0.88037807
+
+00:01:40.890 --> 00:01:44.215
+so I'll say fever. I said fever.
+
+NOTE Confidence: 0.88037807
+
+00:01:44.220 --> 00:01:47.092
+So this says that if there are any
+
+NOTE Confidence: 0.88037807
+
+00:01:47.092 --> 00:01:49.128
+other symptoms then let us know,
+
+NOTE Confidence: 0.88037807
+
+00:01:49.130 --> 00:01:51.236
+or if no then press none.
+
+NOTE Confidence: 0.88037807
+
+00:01:51.240 --> 00:01:53.346
+So I'm just entering none that
+
+NOTE Confidence: 0.88037807
+
+00:01:53.346 --> 00:01:54.750
+I don't have anything.
+
+NOTE Confidence: 0.88037807
+
+00:01:54.750 --> 00:01:57.880
+I'm just having a fever.
+
+NOTE Confidence: 0.88037807
+
+00:01:57.880 --> 00:02:00.215
+So there's a conversation is
+
+NOTE Confidence: 0.88037807
+
+00:02:00.215 --> 00:02:03.259
+going on between the bot and me.
+
+NOTE Confidence: 0.88037807
+
+00:02:03.260 --> 00:02:05.396
+So this part is asking me
+
+NOTE Confidence: 0.88037807
+
+00:02:05.396 --> 00:02:07.330
+how much fever I have.
+
+NOTE Confidence: 0.88037807
+
+00:02:07.330 --> 00:02:10.201
+There is a normal fever like it's in 100
+
+NOTE Confidence: 0.88037807
+
+00:02:10.201 --> 00:02:13.392
+degree Celsius Fahrenheit, so I said this.
+
+NOTE Confidence: 0.88037807
+
+00:02:13.392 --> 00:02:15.282
+So he's asking a throat.
+
+NOTE Confidence: 0.88037807
+
+00:02:15.290 --> 00:02:18.464
+Nope, I don't have any throat
+
+NOTE Confidence: 0.88037807
+
+00:02:18.464 --> 00:02:20.580
+infection or sore throat.
+
+NOTE Confidence: 0.88037807
+
+00:02:20.580 --> 00:02:23.036
+So if vomiting or anything I said no,
+
+NOTE Confidence: 0.88037807
+
+00:02:23.040 --> 00:02:24.924
+I don't have anything vomiting and
+
+NOTE Confidence: 0.88037807
+
+00:02:24.924 --> 00:02:28.420
+all cough a little bit off, yeah?
+
+NOTE Confidence: 0.88037807
+
+00:02:28.420 --> 00:02:30.040
+So, uh, once it diagnose,
+
+NOTE Confidence: 0.88037807
+
+00:02:30.040 --> 00:02:31.810
+it gives the medicine medicine to
+
+NOTE Confidence: 0.88037807
+
+00:02:31.810 --> 00:02:33.762
+me or like give any recommendation
+
+NOTE Confidence: 0.88037807
+
+00:02:33.762 --> 00:02:35.527
+that what should I do?
+
+NOTE Confidence: 0.88037807
+
+00:02:35.530 --> 00:02:37.456
+It's a less than three week,
+
+NOTE Confidence: 0.88037807
+
+00:02:37.460 --> 00:02:39.080
+it's just 2-3 days old,
+
+NOTE Confidence: 0.88037807
+
+00:02:39.080 --> 00:02:41.018
+so I said that this thing.
+
+NOTE Confidence: 0.88037807
+
+00:02:41.020 --> 00:02:41.686
+So yeah,
+
+NOTE Confidence: 0.88037807
+
+00:02:41.686 --> 00:02:43.351
+it's it's like Witkoff will
+
+NOTE Confidence: 0.88037807
+
+00:02:43.351 --> 00:02:45.218
+say that it's a bit curve.
+
+NOTE Confidence: 0.88037807
+
+00:02:45.220 --> 00:02:48.020
+Let's see with the bot has to say so see
+
+NOTE Confidence: 0.88037807
+
+00:02:48.090 --> 00:02:51.026
+it is checking his the question page base.
+
+NOTE Confidence: 0.88037807
+
+00:02:51.030 --> 00:02:52.968
+So based on the question based,
+
+NOTE Confidence: 0.88037807
+
+00:02:52.970 --> 00:02:55.266
+the answer is coming up and we
+
+NOTE Confidence: 0.88037807
+
+00:02:55.266 --> 00:02:57.667
+want to build this in this demo.
+
+NOTE Confidence: 0.88037807
+
+00:02:57.670 --> 00:02:59.740
+Off in the fourth module.
+
+NOTE Confidence: 0.88037807
+
+00:02:59.740 --> 00:03:03.036
+OK, so so we don't have this information,
+
+NOTE Confidence: 0.88037807
+
+00:03:03.040 --> 00:03:07.066
+so I just click on submit.
+
+NOTE Confidence: 0.88037807
+
+00:03:07.070 --> 00:03:09.278
+Yeah, yes, it's asking me something.
+
+NOTE Confidence: 0.88037807
+
+00:03:09.280 --> 00:03:12.568
+Then I'm just giving him him answer so
+
+NOTE Confidence: 0.88037807
+
+00:03:12.568 --> 00:03:16.258
+that it can give me an analysis report.
+
+NOTE Confidence: 0.88037807
+
+00:03:16.260 --> 00:03:16.745
+So.
+
+NOTE Confidence: 0.88037807
+
+00:03:16.745 --> 00:03:20.625
+This is a report generated by the bot.
+
+NOTE Confidence: 0.88037807
+
+00:03:20.630 --> 00:03:21.354
+For me,
+
+NOTE Confidence: 0.88037807
+
+00:03:21.354 --> 00:03:24.250
+these are the symptoms I have and this
+
+NOTE Confidence: 0.88037807
+
+00:03:24.336 --> 00:03:27.488
+suggested to meet me a doctor for today.
+
+NOTE Confidence: 0.88037807
+
+00:03:27.490 --> 00:03:29.390
+This is the possible symptoms.
+
+NOTE Confidence: 0.88037807
+
+00:03:29.390 --> 00:03:32.438
+I there's a possible thing that can have.
+
+NOTE Confidence: 0.88037807
+
+00:03:32.440 --> 00:03:34.726
+So this is also very beneficial.
+
+NOTE Confidence: 0.88037807
+
+00:03:34.730 --> 00:03:37.369
+This report can immediately be given to
+
+NOTE Confidence: 0.88037807
+
+00:03:37.369 --> 00:03:40.246
+the doctors so that the the the doctor
+
+NOTE Confidence: 0.88037807
+
+00:03:40.246 --> 00:03:43.109
+will not be asking these questions again.
+
+NOTE Confidence: 0.88037807
+
+00:03:43.110 --> 00:03:45.240
+This will again reduce their time
+
+NOTE Confidence: 0.88037807
+
+00:03:45.240 --> 00:03:48.139
+and help us to be more productive.
+
+NOTE Confidence: 0.88037807
+
+00:03:48.140 --> 00:03:50.066
+The doctors can be more productive.
+
+NOTE Confidence: 0.88037807
+
+00:03:50.070 --> 00:03:51.680
+They already had this information
+
+NOTE Confidence: 0.88037807
+
+00:03:51.680 --> 00:03:52.968
+which I have shared,
+
+NOTE Confidence: 0.88037807
+
+00:03:52.970 --> 00:03:54.896
+and now again take this report.
+
+NOTE Confidence: 0.88037807
+
+00:03:54.900 --> 00:03:58.180
+A print out of this report and give it to
+
+NOTE Confidence: 0.88037807
+
+00:03:58.260 --> 00:04:01.460
+the doctor so that analysis can be done.
+
+NOTE Confidence: 0.88037807
+
+00:04:01.460 --> 00:04:02.972
+So this is how backboard will
+
+NOTE Confidence: 0.88037807
+
+00:04:02.972 --> 00:04:04.757
+work and this is how artificial
+
+NOTE Confidence: 0.88037807
+
+00:04:04.757 --> 00:04:06.899
+intelligence is helping in this spot.
+
+NOTE Confidence: 0.88037807
+
+00:04:06.900 --> 00:04:08.640
+Thank you will continue to the
+
+NOTE Confidence: 0.88037807
+
+00:04:08.640 --> 00:04:10.519
+next module in the next video.
+
+NOTE Confidence: 0.88037807
+
+00:04:10.520 --> 00:04:11.476
+Thank you.
